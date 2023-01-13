@@ -1,3 +1,3 @@
 # Part 1: Your CSE15L Account 
 Look up your course-specific account for CSE15L here:
-[https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
+[Link](https://sdacs.ucsd.edu/~icc/index.php)
