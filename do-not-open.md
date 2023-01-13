@@ -1,1 +1,1 @@
-[Link](https://commonmark.org/help/)
+[Markdown Cheat Sheet](https://commonmark.org/help/)
