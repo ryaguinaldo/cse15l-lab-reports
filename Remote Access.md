@@ -8,5 +8,6 @@ It may take a while (usually 15 mins) before you can start using your password o
 
 # Part 2: Visual Studio Code
 Follow the instructions on the website [https://code.visualstudio.com/](https://code.visualstudio.com/) on how to install Visual Studio Code on your computer.
+![file:///C:/Users/ryore/AppData/Local/Packages/Microsoft.ScreenSketch_8wekyb3d8bbwe/TempState/Screenshot%202023-01-16%20195010.png](file:///C:/Users/ryore/AppData/Local/Packages/Microsoft.ScreenSketch_8wekyb3d8bbwe/TempState/Screenshot%202023-01-16%20195010.png)
 
 # Part 3: Remotely Connecting
