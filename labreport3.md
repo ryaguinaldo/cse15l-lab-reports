@@ -1,20 +1,20 @@
 # CSE 15L Lab Report 3
 
-`grep -r "str" <text file pattern>` - This command searches a directory that includes the specific string you're looking for.
-This can be used to look for a word within a text file of a directory.
+`grep -ri "str" <text file pattern>` - `grep -ri` does a recursive search of a string from a file pattern. The difference when using this command with just `grep` is that it can search within the directories and not just one file. It also includes the filenames of where the search has occurred. The -i after -r makes it so that it's not case-sensitive. The asterisk, `*`, means all the arguments passed to the script or function.grep
+This can be used to look for a string within the files of a directory.
 
-   ex. `grep -r "California" ~/skill-demo1-data/written_2/travel_guides/berlitz2/California-WhereToGo.txt` shows:
+   ex. `grep -ri "california" *` shows:
   
-  ![Screenshot 2023-02-13 212050](https://user-images.githubusercontent.com/122580027/218646429-45204998-6b5b-43da-8946-5d7f2dc3f8b0.png)
+  ![Screenshot 2023-02-27 233849](https://user-images.githubusercontent.com/122580027/221786137-b4ce5ee0-42a3-4bf5-9622-ca1eea254236.png)
   
-  ex. `grep -r "San Diego" ./written_2/travel_guides/berlitz2/California-WhereToGo.txt` shows:
+  ex. `grep -ri "san diego" *` shows:
   
-  ![Screenshot 2023-02-13 211932](https://user-images.githubusercontent.com/122580027/218646270-d5f94463-1cab-4ffe-b0df-e9f473bfbfc7.png)
+  ![Screenshot 2023-02-27 234011](https://user-images.githubusercontent.com/122580027/221786027-9e331585-0823-4412-9517-a0dbfb6cde1b.png)
 
 ---
 
-`grep -rl "str"` - This command shows all of the text files that contains the specific string. 
-This can be used to search files that contains a word you're looking for.
+`grep -rl "str"` - This command does a recursive search of a string from a file pattern but only prints the filenames. The difference when using this command with just `grep` is that it can be used to search within the directory and prints out the filenames instead of showing the texts where it was found.  
+This can be used to consolidate and clean up the results by printing only the filenames where the string belongs.
 
    ex. `grep -rl "California"`
     
