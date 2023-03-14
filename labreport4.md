@@ -1,3 +1,5 @@
+# Lab Report 4
+
 ## Login to SSH Server
 Logged in to the ssh server using the command `ssh cs15lwi23ava@ieng6.ucsd.edu` press `<enter>` and typed in my password and pressed `<enter>`.
 
@@ -25,3 +27,7 @@ You can see the that after running the tests, there was one failure.
 
 ## Edit the Code to Fix the Failing Test
 Typed the code `nano ListExamples.java` and pressed `<enter>`.
+After finding the error (highlighted in yellow), I pressed `<down>` until I reached the required line and changed it from "index1" to "index2".
+Then I pressed `<ctrl-o><ctrl-x>` to save the changes.
+
+![Screenshot 2023-03-13 203341](https://user-images.githubusercontent.com/122580027/224886740-4a46d505-79f8-4712-994e-43c1608a176d.png)
