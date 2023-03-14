@@ -1,9 +1,9 @@
 # Lab Report 4
 
 ## Login to SSH Server
-Logged in to the ssh server using the command `ssh cs15lwi23ava@ieng6.ucsd.edu` press `<enter>` and typed in my password and pressed `<enter>`.
+Logged in to the ssh server using the command `ssh cs15lwi23ava@ieng6.ucsd.edu` press `<enter>`
 
-![Screenshot 2023-03-13 193715](https://user-images.githubusercontent.com/122580027/224878672-e0bc9121-3a35-42d2-be8e-4be145f8e1eb.png)
+![Screenshot 2023-03-13 211132](https://user-images.githubusercontent.com/122580027/224891181-0e539e50-4293-4e7b-89cc-a9fb63c0fd1d.png)
 
 ## Clone the Forked Repository
 Typed `git clone https://github.com/ryaguinaldo/lab7` and pressed `<enter>`
@@ -36,9 +36,12 @@ Then I pressed `<ctrl-o><enter><ctrl-x>` to save the changes and exit.
 Pressed `<up><up><up><enter>` to compile the file and pressed `<up><up><up><enter>` to run the test.
 
 ![Screenshot 2023-03-13 204212](https://user-images.githubusercontent.com/122580027/224887652-e8f05ac5-ed29-418e-9a96-8124ce6a8d34.png)
+As shown, you can see that all of the tests passed.
 
 ## Commit and Push Resulting Change to Github Account
 Typed the code `git add ListExamples.java` and pressed `<enter>`
 Then typed `git commit -m "PASSED" <enter>` and then `git push <enter>` to commit and push the changes made to Github
 
 ![Screenshot 2023-03-13 205136](https://user-images.githubusercontent.com/122580027/224889094-33bacdbf-c9a7-4672-bbf2-6add9b025462.png)
+
+Checked the repository on github to verify if changes were made successfully.
