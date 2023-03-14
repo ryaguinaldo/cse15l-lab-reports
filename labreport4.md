@@ -21,3 +21,7 @@ Then I went back to the repository to copy the run command for Mac Users by high
 Then I typed `<ctrl-shitf-v>` and pressed `<enter>` to paste it on my terminal.
 
 ![image](https://user-images.githubusercontent.com/122580027/224884227-89479fdd-ed22-4978-8691-4ca95f4f9272.png)
+You can see the that after running the tests, there was one failure.
+
+## Edit the Code to Fix the Failing Test
+Typed the code `nano ListExamples.java` and pressed `<enter>`.
