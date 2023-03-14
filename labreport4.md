@@ -38,4 +38,7 @@ Pressed `<up><up><up><enter>` to compile the file and pressed `<up><up><up><ente
 ![Screenshot 2023-03-13 204212](https://user-images.githubusercontent.com/122580027/224887652-e8f05ac5-ed29-418e-9a96-8124ce6a8d34.png)
 
 ## Commit and Push Resulting Change to Github Account
+Typed the code `git add ListExamples.java` and pressed `<enter>`
+Then typed `git commit -m "PASSED" <enter>` and then `git push <enter>` to commit and push the changes made to Github
 
+![Screenshot 2023-03-13 205136](https://user-images.githubusercontent.com/122580027/224889094-33bacdbf-c9a7-4672-bbf2-6add9b025462.png)
