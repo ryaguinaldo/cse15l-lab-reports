@@ -27,7 +27,15 @@ You can see the that after running the tests, there was one failure.
 
 ## Edit the Code to Fix the Failing Test
 Typed the code `nano ListExamples.java` and pressed `<enter>`.
-After finding the error (highlighted in yellow), I pressed `<down>` until I reached the required line and changed it from "index1" to "index2".
-Then I pressed `<ctrl-o><ctrl-x>` to save the changes.
+After finding the location of the error (highlighted in yellow), I pressed `<down>` until I reached the required line and changed it from "index1" to "index2".
+Then I pressed `<ctrl-o><enter><ctrl-x>` to save the changes and exit.
 
 ![Screenshot 2023-03-13 203341](https://user-images.githubusercontent.com/122580027/224886740-4a46d505-79f8-4712-994e-43c1608a176d.png)
+
+## Run the Tests to Demonstrate Succession
+Pressed `<up><up><up><enter>` to compile the file and pressed `<up><up><up><enter>` to run the test.
+
+![Screenshot 2023-03-13 204212](https://user-images.githubusercontent.com/122580027/224887652-e8f05ac5-ed29-418e-9a96-8124ce6a8d34.png)
+
+## Commit and Push Resulting Change to Github Account
+
